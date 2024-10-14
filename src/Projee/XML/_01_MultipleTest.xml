@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="My Suit">
+    <test name="My Test 1">
+        <classes>
+            <class name="Projee._01_DropdownMenu"></class>
+        </classes>
+    </test>
+
+    <test name="My Test 2">
+        <classes>
+            <class name="Projee._02_CrossCampus"></class>
+        </classes>
+    </test>
+
+    <test name="My Test 3">
+        <classes>
+            <class name="Projee._03_Booking"></class>
+        </classes>
+    </test>
+
+    <test name="My Test 4">
+        <classes>
+            <class name="Projee._04_SubmenuCourses"></class>
+        </classes>
+    </test>
+
+    <test name="My Test 5">
+        <classes>
+            <class name="Projee._05_SubmenuSocialMedia"></class>
+        </classes>
+    </test>
+
+    <test name="My Test 6">
+        <classes>
+            <class name="Projee._06_LogoToHomepage"></class>
+        </classes>
+    </test>
+
+    <test name="My Test 7">
+        <classes>
+            <class name="Projee._07_CourseDetails"></class>
+        </classes>
+    </test>
+
+    <test name="My Test 8">
+        <classes>
+            <class name="Projee._08_TermsOfUse"></class>
+        </classes>
+    </test>
+</suite>
